@@ -517,6 +517,16 @@ input[type="submit"]:focus {
   max-width: calc(100% - 380px);
 }
 
+.changecss {
+  background-color: white;
+  height: 100%;
+}
+
+.pdfcss {
+  min-height:100vh;
+  width:100%
+}
+
 .animated-sections {
   position: relative;
   height: 100%;
